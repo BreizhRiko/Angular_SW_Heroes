@@ -29,13 +29,18 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 git add .
+
 git commit -m "tp 1 v1"
+
 git remote add origin https://github.com/BreizhRiko/Angular_SW_Heroes.git
 
 
 ## creer une nv branche et push :
 PS G:\Projet LE4\Angular\angular-sw-heroes> git branch v2
+
 PS G:\Projet LE4\Angular\angular-sw-heroes> git checkout v2
+
 Switched to branch 'v2'
+
 PS G:\Projet LE4\Angular\angular-sw-heroes> git push origin v2 
 
